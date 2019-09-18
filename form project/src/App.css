@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+#FormErorr{
+    color: red;
+    font-size: 20px;
+}
+.shadow-lg{
+    box-shadow: 0 3px 15px gainsboro;
+}
